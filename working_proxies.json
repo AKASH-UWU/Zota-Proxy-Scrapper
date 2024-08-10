@@ -1,0 +1,107 @@
+[
+    {
+        "proxy": "54.179.44.51:3128",
+        "country": "Singapore",
+        "latency": 179
+    },
+    {
+        "proxy": "18.230.74.53:8086",
+        "country": "Brazil",
+        "latency": 769
+    },
+    {
+        "proxy": "52.67.10.183:80",
+        "country": "Brazil",
+        "latency": 766
+    },
+    {
+        "proxy": "79.110.201.235:8081",
+        "country": "Poland",
+        "latency": 509
+    },
+    {
+        "proxy": "13.36.87.105:3128",
+        "country": "France",
+        "latency": 397
+    },
+    {
+        "proxy": "3.143.222.185:3128",
+        "country": "United States",
+        "latency": 557
+    },
+    {
+        "proxy": "99.80.11.54:3128",
+        "country": "Ireland",
+        "latency": 424
+    },
+    {
+        "proxy": "189.240.60.164:9090",
+        "country": "Mexico",
+        "latency": 3923
+    },
+    {
+        "proxy": "157.230.188.193:3128",
+        "country": "United States",
+        "latency": 3010
+    },
+    {
+        "proxy": "183.60.141.17:443",
+        "country": "China",
+        "latency": 1149
+    },
+    {
+        "proxy": "3.129.184.210:80",
+        "country": "United States",
+        "latency": 559
+    },
+    {
+        "proxy": "13.59.156.167:3128",
+        "country": "United States",
+        "latency": 557
+    },
+    {
+        "proxy": "3.90.100.12:80",
+        "country": "United States",
+        "latency": 562
+    },
+    {
+        "proxy": "128.199.136.56:3128",
+        "country": "Singapore",
+        "latency": 445
+    },
+    {
+        "proxy": "47.243.166.133:18080",
+        "country": "Hong Kong",
+        "latency": 695
+    },
+    {
+        "proxy": "212.127.93.44:8081",
+        "country": "Poland",
+        "latency": 482
+    },
+    {
+        "proxy": "122.147.22.186:80",
+        "country": "Taiwan",
+        "latency": 661
+    },
+    {
+        "proxy": "212.107.28.120:80",
+        "country": "Hong Kong",
+        "latency": 2179
+    },
+    {
+        "proxy": "54.152.3.36:80",
+        "country": "United States",
+        "latency": 560
+    },
+    {
+        "proxy": "52.73.224.54:3128",
+        "country": "United States",
+        "latency": 559
+    },
+    {
+        "proxy": "189.240.60.166:9090",
+        "country": "Mexico",
+        "latency": 1875
+    }
+]

@@ -1,0 +1,10 @@
+# config.toml
+
+# Enable or disable debug mode
+debug_mode = false
+
+# Number of threads to use for concurrent tasks
+thread_count = 50
+
+# Special key to stop script immediately
+shutdown_key = "s"
