@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 3. **Usage:**
 
-Prepare your URLs file:
+- Prepare your URLs file:
 
-Create a urls.txt file in the root directory containing one URL per line from which proxies will be scraped.
+- Create a urls.txt file in the root directory containing one URL per line from which proxies will be scraped.
 
 4. **Run the script:**
 
