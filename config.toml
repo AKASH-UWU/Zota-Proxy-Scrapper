@@ -4,4 +4,7 @@
 debug_mode = false
 
 # Number of threads to use for concurrent tasks
-thread_count = 50
+thread_count = 100
+
+# Timeout for requests in seconds
+timeout = 10

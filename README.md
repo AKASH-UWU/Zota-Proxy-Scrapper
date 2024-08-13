@@ -18,6 +18,8 @@ Zota Proxy Scrapper is a Python script that scrapes proxy addresses from specifi
 
 - Python 3.6 or higher
 
+- For optimal performance, it's recommended to use this script on a VPS or a high-speed network.
+
 ### Setup
 
 1. **Clone the repository:**
@@ -39,7 +41,7 @@ pip install -r requirements.txt
 
 - Prepare your URLs file:
 
-- Create a urls.txt file in the root directory containing one URL per line from which proxies will be scraped.
+- Create a `urls.txt` file in the root directory containing one URL per line from which proxies will be scraped.
 
 4. **Run the script:**
 
@@ -49,8 +51,8 @@ python3 main.py
 
 ## Check the output:
 
-- Proxies will be saved in raw.txt.
-- Working proxies will be saved in working_proxies.json.
+- Proxies will be saved in `raw.txt`.
+- Working proxies will be saved in `working_proxies.json`, and their `ip:port` formats will be listed in `working_proxies.txt`.
 
 
 ## Additional Information
@@ -58,7 +60,7 @@ python3 main.py
 - Graceful Shutdown: Use Ctrl + C to stop the script gracefully.
 - Troubleshooting
 - Errors loading configuration file: Ensure config.toml is correctly formatted.
-- Errors reading proxies: Check the format of urls.txt and raw.txt.
+- Errors reading proxies: Check the format of `urls.txt` and `raw.txt`.
 
 
 
