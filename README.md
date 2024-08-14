@@ -1,5 +1,7 @@
 # Zota Proxy Scrapper - AkashUwU
 
+![VS Code Console](extras/console.gif)
+
 ## Description
 
 Zota Proxy Scrapper is a Python script that scrapes proxy addresses from specified URLs, validates them, and saves working proxies to a JSON file. It uses multithreading for efficient processing and supports graceful shutdowns. The project includes functionality for checking proxy performance, such as pinging the latest proxy and providing status updates.
